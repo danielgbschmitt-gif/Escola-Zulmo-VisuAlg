@@ -8,3 +8,4 @@ Funções:
 - Maior nota
 
 Projeto feito para estudo de lógica de programação.
+(Está escrito errado por cont do GitHub, se copiar e colar no VisuAlg sai certo)
